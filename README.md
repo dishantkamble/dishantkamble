@@ -1,6 +1,6 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Dishant Kamble! 
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello, I'm Dishant Kamble! 
 
-<img src="https://media.giphy.com/media/AxJaiJ65agT7sVZ8tf/giphy.gif" width="30px"> Trondheim, Norway.
+<img src="https://media.giphy.com/media/AxJaiJ65agT7sVZ8tf/giphy.gif" width="25px"> Trondheim, Norway.
 
 I work as a full-stack developer with inclination towards backend development.
 

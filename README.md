@@ -45,3 +45,8 @@ Since 2010 I've been living and breathing JAVA development and creating modern e
 ### How you could reach me 📫
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dishant-kamble/)](https://www.linkedin.com/in/dishant-kamble/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dishantk)](https://twitter.com/dishantk)
+[![Stackoverflow Badge](https://github.com/StackExchange/Stacks-Icons/blob/production/src/Icon/Logo.svg)](https://stackoverflow.com/users/7977273/dishant-kamble)
+
+### Github Stats 😎
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dishantkamble&show_icons=true&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishantkamble&layout=compact&langs_count=6" />

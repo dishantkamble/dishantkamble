@@ -21,6 +21,7 @@ Since 2010 I've been living and breathing JAVA development and creating modern e
 ### What I'm currently learning 🌱
 
 - [`#reactjs`](#reactjs)
+- [`#golang`](#golang)
 
 ### What I would like to collaborate on 👯
 
@@ -34,6 +35,7 @@ Since 2010 I've been living and breathing JAVA development and creating modern e
 ### What I need help with 🤔
 
 - [`#reactjs`](#reactjs)
+- [`#golang`](#golang)
 - [`#springnative`](#springnative)
 
 ### What you could ask me about 💬

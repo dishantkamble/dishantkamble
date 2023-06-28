@@ -2,47 +2,57 @@
 
 <img src="https://media.giphy.com/media/AxJaiJ65agT7sVZ8tf/giphy.gif" width="30"> Trondheim, Norway.
 
-I work as a full-stack developer with inclination towards backend development.
+I work as a Software Architect with an inclination toward backend development.
 
-Since 2010 I've been living and breathing JAVA development and creating modern enterprise grade backend applications. I've had the chance to immerse myself in many different frameworks and projects during my journey.
+Since 2010 I've been living and breathing JAVA development and creating modern enterprise-grade backend applications. I've had the chance to immerse myself in many different frameworks and projects during my journey.
+
+Extensive hands-on design and implementation experience in integrating complex systems.
 
 ### What I am currently working on 🔭
 
 - [`#java`](#java) 
-- [`#springboot`](#springboot) 
+- [`#spring-boot`](#spring-boot) 
 - [`#docker`](#docker)
 - [`#kubernetes`](#kubernetes)
-- [`#springsecurity`](#springsecurity)
-- [`#springbootstatemachine`](#springbootstatemachine)
-- [`#springcloud`](#springcloud)
+- [`#spring-security`](#spring-security)
+- [`#spring-boot-statemachine`](#spring-boot-statemachine)
+- [`#spring-cloud`](#spring-cloud)
 - [`#javascript`](#javascript)
 - [`#reactjs`](#reactjs)
+- [`#spring-kafka`](#spring-kafka)
+- [`#github-actions`](#github-actions)
 
 ### What I'm currently learning 🌱
 
 - [`#reactjs`](#reactjs)
 - [`#golang`](#golang)
+- [`#domain-driven-design`](#domain-driven-design)
 
 ### What I would like to collaborate on 👯
 
 - [`#java`](#java) 
-- [`#springboot`](#springboot) 
+- [`#spring-boot`](#spring-boot) 
 - [`#docker`](#docker)
 - [`#kubernetes`](#kubernetes)
-- [`#springsecurity`](#springsecurity)
-- [`#springbootstatemachine`](#springbootstatemachine)
+- [`#spring-security`](#spring-security)
+- [`#spring-boot-statemachine`](#spring-boot-statemachine)
+- [`#spring-kafka`](#spring-kafka)
+- [`#domain-driven-design`](#domain-driven-design)
 
 ### What I need help with 🤔
 
 - [`#reactjs`](#reactjs)
 - [`#golang`](#golang)
-- [`#springnative`](#springnative)
+- [`#spring-native`](#spring-native)
 
 ### What you could ask me about 💬
 
 - [`#java`](#java) 
-- [`#springboot`](#springboot) 
-- [`#springbootstatemachine`](#springbootstatemachine)
+- [`#spring-boot`](#spring-boot) 
+- [`#spring-boot-statemachine`](#spring-boot-statemachine)
+- [`#spring-kafka`](#spring-kafka)
+- [`#github-actions`](#github-actions)
+- [`#domain-driven-design`](#domain-driven-design)
 
 ### How you could reach me 📫
 

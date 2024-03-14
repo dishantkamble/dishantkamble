@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hello, I'm Dishant Kamble! 
 
-<img src="https://media.giphy.com/media/AxJaiJ65agT7sVZ8tf/giphy.gif" width="30"> Trondheim, Norway.
+<img src="https://media.giphy.com/media/AxJaiJ65agT7sVZ8tf/giphy.gif" width="30"> Oslo, Norway.
 
 I work as a Software Architect with an inclination toward backend development.
 
@@ -21,6 +21,7 @@ Extensive hands-on design and implementation experience in integrating complex s
 - [`#reactjs`](#reactjs)
 - [`#spring-kafka`](#spring-kafka)
 - [`#github-actions`](#github-actions)
+- [`#sap-cap`](#sap-cap)
 
 ### What I'm currently learning 🌱
 
@@ -56,8 +57,8 @@ Extensive hands-on design and implementation experience in integrating complex s
 
 ### How you could reach me 📫
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dishant-kamble/)](https://www.linkedin.com/in/dishant-kamble/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dishantk)](https://twitter.com/dishantk)
-[<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/stackoverflow.svg" width="25">](https://stackoverflow.com/users/7977273/dishant-kamble)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dishant-kamble/)](https://www.linkedin.com/in/dishant-kamble/)  [<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/x.svg" width="20">](https://twitter.com/dishantk)
+[<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/stackoverflow.svg" width="20">](https://stackoverflow.com/users/7977273/dishant-kamble)
 
 ### Github Stats 😎
 

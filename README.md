@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/AxJaiJ65agT7sVZ8tf/giphy.gif" width="30"> Oslo, Norway.
 
-I work as a Software Architect with an inclination toward backend development.
+I work as an Integration Architect with an inclination toward backend development.
 
 Since 2010 I've been living and breathing JAVA development and creating modern enterprise-grade backend applications. I've had the chance to immerse myself in many different frameworks and projects during my journey.
 
@@ -57,7 +57,7 @@ Extensive hands-on design and implementation experience in integrating complex s
 
 ### How you could reach me 📫
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dishant-kamble/)](https://www.linkedin.com/in/dishant-kamble/)  [<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/x.svg" width="20">](https://twitter.com/dishantk)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dishant-kamble/)](https://www.linkedin.com/in/dishant-kamble/)  [<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/x.svg" width="20">](https://x.com/dishantk)
 [<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/stackoverflow.svg" width="20">](https://stackoverflow.com/users/7977273/dishant-kamble)
 
 ### Github Stats 😎

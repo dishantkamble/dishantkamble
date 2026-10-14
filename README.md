@@ -8,29 +8,53 @@ Since 2010 I've been living and breathing JAVA development and creating modern e
 
 Extensive hands-on design and implementation experience in integrating complex systems.
 
+These days I focus on integration governance at DNB: API and event-driven standards, Apache Kafka, and secure access for AI agents through the Model Context Protocol (MCP).
+
+### What I created 🚀
+
+**[Precepts](https://github.com/precepts-dev)** · an open-source governance and standards framework. *Built for humans. Ready for agents.*
+
+Organizations publish their engineering standards once, as validated, machine-readable Markdown grounded in ISO, RFC, W3C, NIST and OWASP references. The same source serves people through the docs site, AI agents through MCP, and CI pipelines through a GitHub Action.
+
+- 📖 **[standards](https://github.com/precepts-dev/standards)** · Integration, Security, UX, Product and Project Management standards with YAML frontmatter, schema validation and RFC 2119 rules
+- 🤖 **[platform](https://github.com/precepts-dev/platform)** · an MCP server that lets AI agents such as Claude, Copilot and Cursor list, search and read the standards, plus a validator CLI and the [docs site](https://docs.precepts.dev/)
+- ✅ **[audit](https://github.com/precepts-dev/audit)** · a GitHub Action that uses AI agents to check a codebase against the standards and flags violations as annotations, with a strict mode that fails the build
+
+[![@precepts/standards](https://img.shields.io/npm/v/@precepts/standards?label=%40precepts%2Fstandards)](https://www.npmjs.com/package/@precepts/standards) [![@precepts/mcp-server](https://img.shields.io/npm/v/@precepts/mcp-server?label=%40precepts%2Fmcp-server)](https://www.npmjs.com/package/@precepts/mcp-server) [![precepts-dev/audit](https://img.shields.io/github/v/release/precepts-dev/audit?label=precepts-dev%2Faudit)](https://github.com/precepts-dev/audit)
+
+Contributions and standards proposals are welcome.
+
 ### What I am currently working on 🔭
 
+- [`#integration-governance`](#integration-governance)
+- [`#model-context-protocol`](#model-context-protocol)
+- [`#ai-agents`](#ai-agents)
+- [`#github-actions`](#github-actions)
 - [`#java`](#java) 
-- [`#spring-boot`](#spring-boot) 
+- [`#spring-boot`](#spring-boot)
+- [`#sap-cap`](#sap-cap)
 - [`#docker`](#docker)
 - [`#kubernetes`](#kubernetes)
 - [`#spring-security`](#spring-security)
+- [`#spring-kafka`](#spring-kafka)
 - [`#spring-boot-statemachine`](#spring-boot-statemachine)
 - [`#spring-cloud`](#spring-cloud)
 - [`#javascript`](#javascript)
 - [`#reactjs`](#reactjs)
-- [`#spring-kafka`](#spring-kafka)
-- [`#github-actions`](#github-actions)
-- [`#sap-cap`](#sap-cap)
+- [`#typescript`](#typescript)
 
 ### What I'm currently learning 🌱
 
-- [`#reactjs`](#reactjs)
-- [`#golang`](#golang)
+- [`#agent-identity`](#agent-identity)
+- [`#model-context-protocol`](#model-context-protocol)
 - [`#domain-driven-design`](#domain-driven-design)
 
 ### What I would like to collaborate on 👯
 
+- [`#domain-driven-design`](#domain-driven-design)
+- [`#precepts`](https://github.com/precepts-dev)
+- [`#engineering-standards`](#engineering-standards)
+- [`#model-context-protocol`](#model-context-protocol)
 - [`#java`](#java) 
 - [`#spring-boot`](#spring-boot) 
 - [`#docker`](#docker)
@@ -38,22 +62,26 @@ Extensive hands-on design and implementation experience in integrating complex s
 - [`#spring-security`](#spring-security)
 - [`#spring-boot-statemachine`](#spring-boot-statemachine)
 - [`#spring-kafka`](#spring-kafka)
-- [`#domain-driven-design`](#domain-driven-design)
 
 ### What I need help with 🤔
 
-- [`#reactjs`](#reactjs)
-- [`#golang`](#golang)
+- [`#agent-identity`](#agent-identity)
+- [`#model-context-protocol`](#model-context-protocol)
 - [`#spring-native`](#spring-native)
 
 ### What you could ask me about 💬
 
+- [`#precepts`](https://github.com/precepts-dev)
 - [`#java`](#java) 
 - [`#spring-boot`](#spring-boot) 
 - [`#spring-boot-statemachine`](#spring-boot-statemachine)
 - [`#spring-kafka`](#spring-kafka)
 - [`#github-actions`](#github-actions)
 - [`#domain-driven-design`](#domain-driven-design)
+- [`#integration-architecture`](#integration-architecture)
+- [`#api-governance`](#api-governance)
+- [`#event-driven-architecture`](#event-driven-architecture)
+- [`#model-context-protocol`](#model-context-protocol)
 
 ### How you could reach me 📫
 
